@@ -1,0 +1,1 @@
+jdbc:sqlserver://localhost:1433;databaseName=Classifieds;user=sa;password=1234567890;trustServerCertificate=true
